@@ -4,8 +4,8 @@ course website: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036
 
 My solutions to some exercise and homework in this open course (taken in April 2023), cannot guarentee the correctness.
 
-known issues:
-## week_8: 
+## known issues:
+### week_8: 
 hw8 comes with pre-written code and we are asked to run it and answer questions, I have no idea why everytime I ran it for question 3A), the following error message came up:
 
 Cell In[1], line 80, in run_keras(X_train, y_train, X_val, y_val, X_test, y_test, layers, epochs, split, verbose)
