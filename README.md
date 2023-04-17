@@ -17,5 +17,4 @@ Cell In[1], line 80, in run_keras(X_train, y_train, X_val, y_val, X_test, y_test
 
 IndexError: list index out of range
 
-When I tried to run the jupyter notebook from this link: https://github.com/elahea2020/6.036/blob/df86454f45f308815301c0783ac793f211c8dc1f/HW8/hw8/HW8.ipynb, same issue happens.
-
+The same issue persisted when I tried to run the jupyter notebook from this link: https://github.com/elahea2020/6.036/blob/df86454f45f308815301c0783ac793f211c8dc1f/HW8/hw8/HW8.ipynb
